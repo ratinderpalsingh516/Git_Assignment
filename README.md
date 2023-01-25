@@ -7,3 +7,5 @@ Feature_2
 Third step: Commiting this change to the Feature_2 branch.
 
 Step 6: Commiting this change to Feature_1 branch.
+
+Step 7: Commiting this change to HotFix branch.
